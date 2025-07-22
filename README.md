@@ -32,7 +32,7 @@ Portfolio/
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/pritamsatpute/pritams-portfolio1.git
+   git clone https://github.com/mohittondre/mohitt-portfolio.git
    ```
 
 2. **Open the project** in your browser:
